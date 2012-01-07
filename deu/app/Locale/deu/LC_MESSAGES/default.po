@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-28 21:04+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Oliver Strixner <info@osvision.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-KeywordsList: _e;__e;__;_\n"
+"X-Poedit-Basepath: ../../../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Dashboard"
+msgstr "Resumen"
+
+msgid "Structure"
+msgstr "Struktur"
+
+msgid "Content"
+msgstr "Inhalt"
+
+msgid "Appearance"
+msgstr "Design"
+
+msgid "Modules"
+msgstr "Modul"
+
+msgid "Users"
+msgstr "Benutzer"
+
+msgid "Configuration"
+msgstr "Konfiguration"
+
+msgid "Help"
+msgstr "Hilfe"
+
+msgid "Hidden"
+msgstr "Versteckt"
+
+msgid "Languages"
+msgstr "Sprachen"
+
+msgid "View Site"
+msgstr "Webseite anzeigen"
+
+msgid "Log out"
+msgstr "Ausloggen"
+
+msgid "Logout"
+msgstr "Logout"
+
+msgid "My account"
+msgstr "Mein Konto"
+
+msgid "« Previous "
+msgstr "« Vorher"
+
+msgid " Next »"
+msgstr " Nächster »"
+
